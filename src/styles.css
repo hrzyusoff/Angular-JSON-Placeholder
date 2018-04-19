@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+/* SCROLLBAR */
+::-webkit-scrollbar {
+    width: 0px;
+    /* remove scrollbar space */
+    background: transparent;
+    /* optional: just make scrollbar invisible */
+  }
+  /* optional: show position indicator in red */
+  ::-webkit-scrollbar-thumb {
+    background: gray;
+  }
+  /* END OF SCROLLBAR */
