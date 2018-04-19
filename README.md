@@ -1,6 +1,7 @@
-# Jom
+# Angular JSON Placeholder
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+- Play around with JSON Placeholder API using Angular 5. For now I am only working with get. More to come, stay tuned.
 
 ## Development server
 
